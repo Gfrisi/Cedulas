@@ -1,0 +1,2 @@
+O programa deve ler um valor inteiro. A seguir, calcular o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. A seguir mostre o valor lido e a relação de notas necessárias.
+ arquivo de entrada contém um valor inteiro N (0 < N < 1000000). E sua saida imprimir o valor lido e, em seguida, a quantidade mínima de notas de cada tipo necessárias.
